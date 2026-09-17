@@ -15,7 +15,7 @@
 
 ### 📂 Lab Progress
 
-- [x] 🧪 **`First lab/` — Intensity Transformations & Histogram Analysis**
+- [ ] 🧪 **`First lab/` — Intensity Transformations & Histogram Analysis**
   - Image statistical analysis ($\mu, \sigma$, min/max) & normalized histogram visualization.
   - Power-law (Gamma) correction evaluated with **MSE** and **SSIM** metrics.
   - Statistical color/intensity matching & Thresholding (Global, Adaptive, Otsu).
