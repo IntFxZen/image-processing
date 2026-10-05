@@ -19,7 +19,7 @@
   - Image statistical analysis ($\mu, \sigma$, min/max) & normalized histogram visualization.
   - Power-law (Gamma) correction evaluated with **MSE** and **SSIM** metrics.
   - Statistical color/intensity matching & Thresholding (Global, Adaptive, Otsu).
-- [ ] 🧪 **[`Second lab/`](https://github.com/IntFxZen/image-processing/tree/main/Second%20lab) — Image Noise Addition & Filtering**
+- [x] 🧪 **[`Second lab/`](https://github.com/IntFxZen/image-processing/tree/main/Second%20lab) — Image Noise Addition & Filtering**
   - Simulation and addition of additive Gaussian noise and impulse noise (Salt & Pepper).
   - Testing and tuning of 4 denoising filters (Median, Gaussian, Bilateral, and NL-Means) with various parameter configurations.
   - Quantitative quality assessment using **MSE**, **PSNR**, and **SSIM** metrics to determine the best-performing filter for each noise type.
